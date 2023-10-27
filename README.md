@@ -1,2 +1,3 @@
 # cv
-my first personal website
+This is the portfolio website of Bo Cao
+
